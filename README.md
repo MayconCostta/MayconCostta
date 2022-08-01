@@ -1,8 +1,12 @@
-### Óla, me chamo Maycon Costa 🐺k
+### Óla, me chamo Maycon Costa, sou estudande de Engenharia Elétrica e amante de programação.
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mayconcostta?igshid=YmMyMTA2M2Y=)
 
-![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconcorrea&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/MayconCostta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconCostta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCostta&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### ESTUDANDO:
 <div style="display: inline_block"><br/>
