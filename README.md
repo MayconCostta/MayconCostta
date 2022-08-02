@@ -1,4 +1,5 @@
-### Óla, me chamo Maycon Costa, sou estudande de Engenharia Elétrica e amante de programação.
+## 
+ ## Hello, my name is Maycon Costa, I am a student of Electrical Engineering and programming lover.
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mayconcostta?igshid=YmMyMTA2M2Y=)
 
